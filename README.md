@@ -32,3 +32,6 @@ Python · JavaScript · Cloudflare Workers · Netlify · Stripe API · Solana ·
 📫 Reach me
 
 zylova.ai · open to interesting conversations about AI agents, automation, and building small-business tooling.
+
+Website:  http://www.zylova.ai
+
